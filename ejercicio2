@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main(){
+double v=2;
+double v1=3;
+
+printf("resultado de la divicion de las 3 variables %lf",v/v1);
+
+}

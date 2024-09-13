@@ -19,6 +19,3 @@ int main() {
 
     return 0;
 }
-```
-
-En este código, se declara una variable entera `numero` con valor `10`. Luego, se declara un apuntador a entero llamado `apuntador`. Se asigna la dirección de memoria de `numero` a `apuntador` utilizando el operador `&`. Después, se imprimen los valores de `numero`, la dirección de memoria de `numero`, el valor de `apuntador` y el valor apuntado por `apuntador`. Finalmente, se modifica el valor de `numero` a través del apuntador y se imprime el nuevo valor de `numero`. Recuerda que los apuntadores son variables que almacenan direcciones de memoria y se utilizan para acceder y modificar los valores de las variables a las que apuntan.

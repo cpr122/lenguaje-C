@@ -6,7 +6,5 @@ int main(){
     int z=0;
     z=(cliente)?descuentoC:descuento;
     printf("el decuento es de %d  \n",z);
-
     printf("fin del programa");
-
 }

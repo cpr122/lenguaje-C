@@ -1,5 +1,3 @@
-
-
 // 1. Calcular el factorial de un número:
 #include <stdio.h>
 

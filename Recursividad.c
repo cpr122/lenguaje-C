@@ -10,11 +10,9 @@ int main() {
     printf("Dirección de memoria de 'numero': %p\n", &numero);
     printf("Valor de 'apuntador': %p\n", apuntador);
     printf("Valor apuntado por 'apuntador': %d\n", *apuntador);
-
     // Modificando el valor de 'numero' a través del apuntador
     *apuntador = 20;
 
     printf("Valor de 'numero' después de modificarlo a través del apuntador: %d\n", numero);
-
     return 0;
 }

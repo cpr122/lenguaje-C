@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 
 // Función para calcular el factorial de un número utilizando recursividad

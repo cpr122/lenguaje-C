@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 // Función para calcular el factorial de un número utilizando recursividad
 int factorial(int n) {
     if (n == 0) {

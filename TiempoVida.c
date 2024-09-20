@@ -1,5 +1,8 @@
+// librerías 
 #include <stdio.h>
 #include <stdlib.h>
+
+
 
 int main (){
     printf("Bienvenido Usuario\nAverigua tu tiempo de vida\n");

@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <weather.h>
-
 int main() {
     // Inicializar la librería
     weather_init(NULL);

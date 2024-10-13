@@ -13,6 +13,6 @@ int main() {
     // Modificando el valor de 'numero' a través del apuntador
     *apuntador = 20;
 
-    printf("Valor de 'numero' después de modificarlo a través del apuntador: %d\n", numero);
+    printf("Valor de 'numero' después de modificarlo a través del apuntador(espacio en memoria): %d\n", numero);
     return 0;
 }

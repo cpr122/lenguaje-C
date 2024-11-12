@@ -16,6 +16,5 @@ int main() {
     } else {
         printf("El partido termino en empate");
     }
-
     return 0;
 }

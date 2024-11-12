@@ -6,10 +6,8 @@ int main() {
     printf("Hola Mundo\n");
     return 0;
 }
-```
 
-1. Calcular el área de un círculo:
-```
+## 1. Calcular el área de un círculo:
 #include <stdio.h>
 
 int main() {

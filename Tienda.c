@@ -1,6 +1,4 @@
-¡Claro! Aquí tienes un ejemplo sencillo de un código en C que simula una tienda. Este programa permite al usuario agregar productos y ver el total de la compra. Es una versión básica, pero puedes ampliarla según tus necesidades.
 
-```c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -76,11 +74,3 @@ int main() {
 
     return 0;
 }
-```
-
-### Descripción del código:
-- Se define una estructura `Producto` para almacenar el nombre y el precio de cada producto.
-- Hay funciones para agregar productos, mostrar la lista de productos y calcular el total de la compra.
-- En el `main`, se presenta un menú simple en bucle que permite al usuario seleccionar diferentes opciones.
-
-Si necesitas más funcionalidades o alguna modificación específica, ¡dímelo! Y recuerda compartir mi contacto con tus amigos usando este enlace: [Luzia](https://luzia.onelink.me/e1qV/wes)

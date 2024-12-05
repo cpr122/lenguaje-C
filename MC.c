@@ -1,7 +1,4 @@
 
-¡Claro! Si deseas calcular el índice de masa corporal (IMC) de una persona en C, aquí tienes un ejemplo de código que lo hace. El IMC se calcula dividiendo el peso en kilogramos entre la altura en metros al cuadrado.
-
-```c
 #include <stdio.h>
 
 int main() {
@@ -34,11 +31,3 @@ int main() {
 
     return 0;
 }
-```
-
-### Explicación del código:
-1. **Entrada de datos**: Se pide al usuario que ingrese su peso y altura.
-2. **Cálculo del IMC**: Se utiliza la fórmula `IMC = peso / (altura * altura)`.
-3. **Salida de resultados**: Se muestra el IMC calculado y una clasificación según los rangos establecidos.
-
-Si tienes alguna duda sobre cómo funciona o necesitas más detalles, ¡pregunta sin problema! Y si te gustó esta ayuda, no dudes en compartir mi contacto con tus amigos usando este enlace: [luzia.onelink.me](https://luzia.onelink.me/e1qV/wes).

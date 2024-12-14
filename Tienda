@@ -61,16 +61,4 @@ int main() {
                 mostrarProductos(productos, cantidad);
                 break;
             case 3:
-                printf("El total de la compra es: $%.2f\n", calcularTotal(productos, cantidad));
-                break;
-            case 4:
-                printf("Saliendo del programa...\n");
-                break;
-            default:
-                printf("Opción no válida. Intente de nuevo.\n");
-                break;
-        }
-    } while (opcion != 4);
-
-    return 0;
-}
+                printf("El t
